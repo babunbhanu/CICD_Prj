@@ -3,7 +3,7 @@ public class hello1 {
     //TODO Auto-generated method stub
 
 for(int i=1; i<=25;i++) {
-   System.out.println("Hello Git Hub ...."+i);
+   System.out.println("CHeck the changes in Jenkins...."+i);
 }
  }
 
